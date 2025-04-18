@@ -8,6 +8,6 @@ The GUI requires wxWidgets.
 I used wx-3.2.6 in a directory of the same name.
 My CMakeLists file is included, but it may not run properly on a different environment.
 
-The GUI just refreshes the bitmap and almost all the code is drawn directly from the developer's site; I mainly included it for completion.
+The current GUI exists for debugging. It simply refreshes the bitmap and almost all the code is drawn directly from the developer's site.
 
 Right clicking advances by one frame and the enter key toggles between play and pause.
